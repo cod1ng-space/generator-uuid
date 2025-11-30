@@ -1,0 +1,5 @@
+com/example/servicea/ServiceAApplication.class
+com/example/servicea/controller/UuidClientController.class
+com/example/servicea/service/UuidClientService.class
+com/example/servicea/config/LoggingConfig.class
+com/example/servicea/config/WebClientConfig.class

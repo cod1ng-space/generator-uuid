@@ -1,0 +1,5 @@
+com/example/serviceb/service/UuidService.class
+com/example/serviceb/ServiceBApplication.class
+com/example/serviceb/config/LoggingConfig.class
+com/example/serviceb/service/impl/InefficientUuidServiceImpl.class
+com/example/serviceb/controller/UuidController.class
