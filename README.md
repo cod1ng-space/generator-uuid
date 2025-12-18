@@ -200,7 +200,7 @@ uuid[pos++] = HEX_DIGITS[(int)(value >>> shift) & 0xF];
 |GC collections|5 (4 Young + 1 Old)|**↓ 37% коллекций**|![10](screenshots/10.png)|
 |GC longest pause|17.4 ms|↑ 17% (но меньше коллекций)|![10_1](screenshots/10_1.png)|
 |Execution samples|12 samples|**↓ 79% CPU samples**|![11](screenshots/11.png)|
--
+
 \* CPU usage на уровне JVM низкий в обеих версиях из-за короткого времени выполнения на фоне idle time. Но количество execution samples снизилось на 79% (58 → 12), что показывает реальное улучшение.
 
 **Сравнение hot methods:**
