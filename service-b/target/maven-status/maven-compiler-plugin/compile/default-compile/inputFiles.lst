@@ -2,4 +2,5 @@
 /home/daniil/study-linux/the_fifth_semester/RIP/generator-uuid/service-b/src/main/java/com/example/serviceb/config/LoggingConfig.java
 /home/daniil/study-linux/the_fifth_semester/RIP/generator-uuid/service-b/src/main/java/com/example/serviceb/controller/UuidController.java
 /home/daniil/study-linux/the_fifth_semester/RIP/generator-uuid/service-b/src/main/java/com/example/serviceb/service/impl/InefficientUuidServiceImpl.java
+/home/daniil/study-linux/the_fifth_semester/RIP/generator-uuid/service-b/src/main/java/com/example/serviceb/service/impl/OptimizedUuidServiceImpl.java
 /home/daniil/study-linux/the_fifth_semester/RIP/generator-uuid/service-b/src/main/java/com/example/serviceb/ServiceBApplication.java
